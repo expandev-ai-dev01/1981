@@ -1,2 +1,1 @@
-// Domain modules export
-export {};
+export * as moonViewer from './moon-viewer/_module';
